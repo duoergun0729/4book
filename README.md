@@ -16,6 +16,6 @@
 
 本书使用的代码和数据均在GitHub上发布，对应地址为：
 
-[	https://github.com/duoergun0729/4book](https://github.com/duoergun0729/1book)
+[	https://github.com/duoergun0729/4book](https://github.com/duoergun0729/4book)
 
 ​	代码层面任何疑问可以在GitHub上直接反馈。本书的写作时间主要集中在晚上十一点以后，所以大家发现的错别字和表述有误的地方请反馈给我，我会在后面版本尽量改正。

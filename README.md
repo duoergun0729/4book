@@ -12,7 +12,7 @@
 
 ​	本书面向运维和安全行业从业者以及信息安全爱好者、开源技术爱好者。我平时在Freebuf专栏以及i春秋分享企业安全建设以及人工智能相关经验与最新话题，同时也运营我的微信公众号”兜哥带你学安全”，欢迎大家关注并在线交流。
 
-​       ![Aaron Swartz]（https://github.com/duoergun0729/4book/raw/master/photo/logo/qrcode_for_gh_810edc392056_258.jpg）
+​       ![Aaron Swartz](https://github.com/duoergun0729/4book/raw/master/photo/logo/qrcode_for_gh_810edc392056_258.jpg）
 
 ​        本书使用的代码和数据均在GitHub上发布，对应地址为：
 

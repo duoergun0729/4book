@@ -1,5 +1,5 @@
 # 《企业安全建设入门:基于开源软件打造企业网络安全》
-![logo](photo/WechatIMG4281.jpeg)
+![logo](photo/1522665872513.jpg)
 # 购买链接
 [https://item.jd.com/12325659.html](https://item.jd.com/12325659.html)
 # 前言
